@@ -1,3 +1,8 @@
+# IEE598 Mini-Project 1: Simple GA with a base-10 genotype.
+# Warren Babb
+# 2/15/2026
+# This Python script was written with the help of Codex.
+
 #!/usr/bin/env python
 """
 Mini-Project 1: Simple GA with a base-10 genotype.
